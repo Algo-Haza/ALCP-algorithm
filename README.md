@@ -32,3 +32,14 @@
 - https://www.acmicpc.net/problem/11660
 - https://www.acmicpc.net/problem/17425
 - https://www.acmicpc.net/problem/10986
+
+## 4주차 : 그리디
+
+발제자 : 전영은
+
+문제
+
+ - https://www.acmicpc.net/problem/2839
+ - https://www.acmicpc.net/problem/1931
+ - https://www.acmicpc.net/problem/1083
+ - https://www.acmicpc.net/problem/1202
